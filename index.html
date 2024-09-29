@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./style.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Chemical Labs</title>
+</head>
+<body>
+    <!-- Navbar -->
+    <nav>
+        <h1>Chemical Supplies</h1>
+
+        <div class="list">
+            <button id="add-btn"><i style="color:#0032C8;" class="fa fa-plus-circle"></i></button>
+            <button id="move-down-btn"><i style="color:#0032C8;" class="fa-solid fa-arrow-down"></i></button>
+            <button id="move-up-btn"><i style="color:#0032C8;" class="fa-solid fa-arrow-up"></i></button>
+            <button id="delete-btn"><i style="color:red" class="fa-solid fa-trash"></i></button>
+            <button id="refresh-btn"><i style="color:#0032C8;" class="fa-solid fa-arrow-rotate-left"></i></button>
+            <button id="save-btn"><i style="color:#0032C8;" class="fa-solid fa-floppy-disk"></i></button>
+        </div>
+    </nav>
+
+    <!-- table section -->
+    <section class="table-section">
+        <table>
+        <thead>
+            <tr>
+                <th>&checkmark;</th>
+                <th></th>
+                <th class="sortable" cell-name="name">Chemical name</th>
+                <th class="sortable" cell-name="vendor">Vendor</th>
+                <th class="sortable" cell-name="density">Density</th>
+                <th class="sortable" cell-name="viscosity">Viscosity</th>
+                <th class="sortable" cell-name="packaging" >Packaging</th>
+                <th class="sortable" cell-name="size">Pack Size</th>
+                <th class="sortable" cell-name="unit">Unit</th>
+                <th class="sortable" cell-name="quantity">Quantity</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th class="subhead">g/m<sup>2</sup></th>
+                <th class="subhead">m<sup>2</sup>/s</th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="table-rows"></tbody>
+        </table>
+
+    </section>
+    
+</body>
+<script src="./index.js"></script>
+</html>

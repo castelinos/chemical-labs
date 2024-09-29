@@ -1,0 +1,151 @@
+[{
+    "id":1,
+    "name":"Ammonium Persulfate",
+    "vendor":"LG Chem",
+    "density":"3525.92",
+    "viscosity": "60.631",
+    "packaging":"Bag",
+    "size":"100.00",
+    "unit":"kg",
+    "quantity":"6495.18"
+},{
+    "id":2,
+    "name":"Caustic Potash",
+    "vendor":"Formosa",
+    "density":"3172.15",
+    "viscosity": "48.22",
+    "packaging":"Bag",
+    "size":"100.00",
+    "unit":"kg",
+    "quantity":"8751.90"
+},{
+    "id":3,
+    "name":"Dimethylaminopropylamino",
+    "vendor":"LG Chem",
+    "density":"8435.37",
+    "viscosity": "12.62",
+    "packaging":"Barrel",
+    "size":"75.00",
+    "unit":"L",
+    "quantity":"5964.61"
+},{
+    "id":4,
+    "name":"Mono Ammonium Phosphate",
+    "vendor":"Sinopec",
+    "density":"1597.65",
+    "viscosity": "76.51",
+    "packaging":"Bag",
+    "size":"105.00",
+    "unit":"kg",
+    "quantity":"8183.73"
+},{
+    "id":5,
+    "name":"Ferric Nitrate",
+    "vendor":"DowDuPont",
+    "density":"364.84",
+    "viscosity": "14.90",
+    "packaging":"Bag",
+    "size":"105.00",
+    "unit":"kg",
+    "quantity":"4154.33"
+},{
+    "id":6,
+    "name":"n-Pentane",
+    "vendor":"Sinopec",
+    "density":"4535.26",
+    "viscosity": "66.76",
+    "packaging":"N/A",
+    "size":"N/A",
+    "unit":"t",
+    "quantity":"6272.34"
+},{
+    "id":7,
+    "name":"Glycol Ether PM",
+    "vendor":"LG Chem",
+    "density":"6495.18",
+    "viscosity": "72.12",
+    "packaging":"Bag",
+    "size":"250.00",
+    "unit":"kg",
+    "quantity":"8749.54"
+},{
+    "id":8,
+    "name":"Barium Chloride",
+    "vendor":"LG Chem",
+    "density":"3538.93",
+    "viscosity": "61.638",
+    "packaging":"Bag",
+    "size":"100.00",
+    "unit":"kg",
+    "quantity":"6400.18"
+},{
+    "id":9,
+    "name":"Barium Nitrate",
+    "vendor":"Formosa",
+    "density":"3164.15",
+    "viscosity": "53.22",
+    "packaging":"Bag",
+    "size":"100.00",
+    "unit":"kg",
+    "quantity":"8723.92"
+},{
+    "id":10,
+    "name":"Citric acid",
+    "vendor":"LG Chem",
+    "density":"8464.32",
+    "viscosity": "12.48",
+    "packaging":"Barrel",
+    "size":"75.00",
+    "unit":"L",
+    "quantity":"5928.63"
+},{
+    "id":11,
+    "name":"Dimethylbenzaldehyde",
+    "vendor":"Sinopec",
+    "density":"1523.65",
+    "viscosity": "54.59",
+    "packaging":"Bag",
+    "size":"105.00",
+    "unit":"kg",
+    "quantity":"8123.73"
+},{
+    "id":12,
+    "name":"Ferric Chloride",
+    "vendor":"DowDuPont",
+    "density":"369.84",
+    "viscosity": "23.90",
+    "packaging":"Bag",
+    "size":"102.00",
+    "unit":"kg",
+    "quantity":"4182.33"
+},{
+    "id":13,
+    "name":"Iodine",
+    "vendor":"Sinopec",
+    "density":"4564.26",
+    "viscosity": "61.76",
+    "packaging":"N/A",
+    "size":"N/A",
+    "unit":"t",
+    "quantity":"6243.34"
+},{
+    "id":14,
+    "name":"Lead acetate",
+    "vendor":"LG Chem",
+    "density":"6422.12",
+    "viscosity": "71.12",
+    "packaging":"Bag",
+    "size":"250.00",
+    "unit":"kg",
+    "quantity":"8756.51"
+},{
+    "id":15,
+    "name":"Mercuric chloride",
+    "vendor":"LG Chem",
+    "density":"6433.18",
+    "viscosity": "69.12",
+    "packaging":"Barrel",
+    "size":"254.00",
+    "unit":"kg",
+    "quantity":"8722.54"
+}]

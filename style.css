@@ -1,0 +1,44 @@
+nav {
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+}
+
+nav .list{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 4px;
+}
+
+nav button{
+    border:none;
+    background: none;
+}
+
+.table-section{
+    width: 100vw;
+}
+
+table{
+    width: 100%;
+    border: 1px solid gainsboro;
+}
+
+table th{
+    border:none;
+    text-align: left;
+    background-color: #FAFAF5;
+}
+
+table th.subhead{
+    color: gray;
+}
+
+table tr:hover{
+    background-color: #d7caf6;
+}
+
+table tr.selected{
+    background-color: #b49fe4;
+}
